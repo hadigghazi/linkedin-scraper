@@ -1,0 +1,482 @@
+[
+  {
+    "title": "MLOps Engineer",
+    "company": "Clarifai",
+    "location": "Washington, DC",
+    "postDate": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-clarifai-3953818552?position=1&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=HUgKXzjcxRGQlC6PoeKZRA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "About the CompanyClarifai is a leading, full-lifecycle deep learning AI platform for computer vision, natural language processing, and audio recognition. We help organizations transform unstructured images, video, text, and audio data into structured data at a significantly faster and more accurate rate than humans would be able to do on their own. Founded in 2013 by Matt Zeiler, Ph.D. Clarifai has been a market leader in AI since winning the top five places in image classification at the 2013 ImageNet Challenge. Clarifai continues to grow with employees remotely based throughout the United States, Canada, Estonia, Argentina & India.We have raised $100M in funding to date, with $60M coming from our most recent Series C, and are backed by industry leaders like Menlo Ventures, Union Square Ventures, Lux Capital, New Enterprise Associates, LDV Capital, Corazon Capital, Google Ventures, NVIDIA, Qualcomm and Osage.Clarifai is proud to be an equal opportunity workplace dedicated to pursuing, hiring, and retaining a diverse workforce.The OpportunityNote: We are interested in every qualified candidate who is eligible to work in the United States. However, we are not able to sponsor visas for this particular opportunity, as we are looking for someone who is eligible for a Secret or Top Secret Clearance.Join our high-velocity, talented AI research and software engineering teams to build innovative Applied Computer Vision and Enterprise AI solutions addressing critical public sector problems. You will maintain data ingestion and model development pipelines with a strong focus on detail and testing, deploy cutting-edge AI algorithms into production, and build and maintain efficient pipeline tooling. This role allows you to make a significant impact on both the company and the broader AI field by solving challenging customer problems and integrating real-world ML Ops pipelines into the Clarifai platform.Key Responsibilities:Collaborate with scientists and engineers to enhance object detection, segmentation, tracking, and visual search capabilities and develop new products.Deploy production-ready models to customers and iteratively improve them based on feedback.Maintain our research ML infrastructure.Transition research projects from proof of concept to production.Integrate your work directly into Clarifai's AI orchestration platformImpactYou will drive customer acquisition and revenue growth, working closely with various teams across the company, including research, backend, infrastructure, product, frontend, and design. This role offers a unique opportunity to make a substantial impact on the company and the AI industry.Requirements3+ years of experience with Python, focusing on Machine Learning or Computer Vision (PyTorch/TensorFlow).Strong MLOps philosophy and experience with associated tooling (Git, CI/CD, Docker, Kubernetes, Kubeflow, Hydra).Experience building and maintaining CI/CD pipelines with an emphasis on DevOps best practices.3+ experience with large scale software development: testing, automation, system-design, performance optimization, concurrent development3+ years of cloud exposure: AWS, Google Cloud, Azure (at least one of them)Comfortable working in a shell environment.Experience working with complex existing codebases.Eligible to obtain a U.S. Secret Security Clearance (U.S. Citizenship)Great to HaveExperience in object detection and tracking. Experience with model export (Torchscript, TensorRT).Experience with Golang, relational databases.The salary hiring range for this position is $125,000 - $175,000 and flexible depending on relevant experience."
+  },
+  {
+    "title": "MLOps Engineer(NJ)",
+    "company": "Tiger Analytics",
+    "location": "New Jersey, United States",
+    "postDate": "9 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-nj-at-tiger-analytics-3719415004?position=2&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=04QYDQUEj1gm4DJ%2F5DqO2g%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Tiger Analytics is looking for experienced Machine Learning Engineers to join our fast-growing advanced analytics consulting firm. Our employees bring deep expertise in Machine Learning, Data Science, and AI. We are the trusted analytics partner for multiple Fortune 500 companies, enabling them to generate business value from data. Our business value and leadership has been recognized by various market research firms, including Forrester and Gartner.We are looking for top-notch talent as we continue to build the best global analytics consulting team in the world. You will be responsible for:ML Engineer with 5-7 years of IT experiencePipeline Training Models, Building, Deployment, Testing, and Monitoring using AWS SageMaker, AWS CFT, AWS CodePipeline, Lambda, etcDevelop Airflow DAGs to run training and scoring pipelinesDevelop a Testing framework with Pytest Implement monitoring solution with homebrew solution using Lambda and Dash Develop Data Quality solutions potentially leveraging Great ExpectationsRequirementsBachelor's degree or higher in computer science or related, with 5+ years of work experienceAbility to collaborate with Data Engineers and Data Scientists to build data and model pipelines and help run machine learning tests and experimentsExperience in AWS - SageMaker (ProcessingJobs, TrainingModels, EndPoints)Experience in Lambda CloudFormation or Terraform Apache Airflow, Astronomer Docker Knowledge of traditional ML ModelsPython, Spark, Hadoop, and Docker with an emphasis on good coding practices in a continuous integration context, model evaluation, and experimental designKnowledge of ML frameworks like Scikitlearn, Tensorflow, and KerasExperience in Pandas, sklearn, Numpy, ScipyAdditional Skills RequiredKnowledge of Database/Data EngineeringExperience with Oracle, Spark, Hadoop, Athena, API, FastAPI, Flask, ReSTKnowledge of MLflow, Airflow, and KubernetesExperience with Cloud environments and knowledge of AWS Services, Service Catalog, SNS, SESBenefitsThis position offers an excellent opportunity for significant career development in a fast-growing and challenging entrepreneurial environment with a high degree of individual responsibility."
+  },
+  {
+    "title": "MLOps Developer",
+    "company": "Software Technology Inc.",
+    "location": "United States",
+    "postDate": "6 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-developer%C2%A0-at-software-technology-inc-3792378653?position=3&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=VuoYjGmwq1SCltginBgi9A%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Role: MLOps DeveloperPosition: Remote Duration :LongTerm Notes: Candidate must be willing to be part of on-call rotation.Your Future Duties And ResponsibilitiesMonitoring - Actively monitor ML jobs through logging, metrics, and alerts.Incident Management Address job failures. Rerun jobs, maintain model/job versions in production.Infrastructure Scalability - Scale infrastructure to handle production workloads. Tuning, capacity planning, cost optimization.Compliance and Security - Apply security best practices. Encrypt data, manage secrets, enforce access controls.Technical Support - Troubleshoot integration and infrastructure issues.Operations Review Monthly Incident management summary, Change management summary and other support metrics.Model Re-training - Schedule regular retraining of models on new data. Manage code and config changes needed for retraining.Model Evaluation - Continuously evaluate model performance on test data. Watch for statistical validation issues.Data Validation - Monitor production data inputs. Check for statistical changes, missing values, outliers, errors.Dependency Management - Manage libraries, frameworks, ML pipelines. Keep versions aligned across dev, test, prod environments.Update Python package versions for Airflow and Lambda if libraries become deprecated and other components and services as needed to customize the environment.DevOps Use version control, Infrastructure as Code, and Configuration Management tools to develop automation which deploys code base.Automation Programmatically define repeatable and reliable tasks which reduce operational overhead.Testing programmatically enforcing quality standards related to the application, automation, and underlying ml models.Required Qualifications To Be Successful In This RoleRequirements: 3-7 years of proven experience in the following areas:CloudAWS CLIAWS SDK (boto3)Parameter store & Secrets ManagerLambdaData EngineeringSQL (Ability to write, Debug, and optimize queries)DynamoDBRedshiftProgramming: IDE (VS Code / PyCharm),Testing (unit test/pytest/mock)PythonMachine LearningML Development (Sage Maker)ML Programming (Pandas, NumPy, Scikit Learn, Matplotlib, lightgbm)ModelingDevOpsGeneral Linux Terminal (ps, awk, grep, netstat, etc.)Shell Scripting (BASH)YAML, IaC (Terraform, Cloud Formation)CI/CD (Code Build, Code Deploy)Orchestration (Apache Airflow)Containerization (Docker, Kubernetes)Thanks & RegardsMohan saiTechnical recruiterPhone# +1-619-605-0324|mohan.sai@stiorg.comSoftware Technology, Incwww.stiorg.com"
+  },
+  {
+    "title": "MLOPS Engineer",
+    "company": "AddSource",
+    "location": "United States",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-addsource-3929079753?position=4&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=EPY8xOn89JWWov5F%2BSGyUw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Key ResponsibilitiesDesign, build, and maintain cloud infrastructure on AWS using tools such as CloudFormation and Terraform, following infrastructure as code principles, with a focus on establishing and maintaining best practices for MLOps infrastructure. Manage and optimize AWS services such as AWS Sagemaker and AWS ECS. Implement security best practices and ensure compliance with industry standards. Collaborate with development teams to streamline the software development lifecycle. Monitor system performance and troubleshoot issues to ensure uptime and reliability. Design and implement cloud network architecture, including VPCs, subnets, SGs, DNS, load balancers. Implement and manage CI/CD pipelines for automated deployment and testing. RequirementsExtensive experience with AWS system and network architecture design, with specific focus on AWS Sagemaker and AWS ECS. Strong proficiency in CloudFormation and Terraform for infrastructure as code. Proficiency in at least one programming language, with preference for Ruby. Strong problem-solving skills and the ability to troubleshoot complex issues. AWS Solutions Architect certifications (optional but preferred). Experience with infrastructure migration projects is a plus. Excellent communication and collaboration skills. EDUCATION Bachelor’s degree in computer science or equivalent certifications."
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Clarifai",
+    "location": "Washington DC-Baltimore Area",
+    "postDate": "6 days ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-clarifai-3952878718?position=5&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=Y%2BBTl6sX0qjUBPzAbWXE9Q%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "About the CompanyClarifai is a leading, full-lifecycle deep learning AI platform for computer vision, natural language processing, and audio recognition. We help organizations transform unstructured images, video, text, and audio data into structured data at a significantly faster and more accurate rate than humans would be able to do on their own. Founded in 2013 by Matt Zeiler, Ph.D. Clarifai has been a market leader in AI since winning the top five places in image classification at the 2013 ImageNet Challenge. Clarifai continues to grow with employees remotely based throughout the United States, Canada, Estonia, Argentina & India.We have raised $100M in funding to date, with $60M coming from our most recent Series C, and are backed by industry leaders like Menlo Ventures, Union Square Ventures, Lux Capital, New Enterprise Associates, LDV Capital, Corazon Capital, Google Ventures, NVIDIA, Qualcomm and Osage.Clarifai is proud to be an equal opportunity workplace dedicated to pursuing, hiring, and retaining a diverse workforce.The OpportunityNote: We are interested in every qualified candidate who is eligible to work in the United States. However, we are not able to sponsor visas for this particular opportunity, as we are looking for someone who is eligible for a Secret or Top Secret Clearance.Join our high-velocity, talented AI research and software engineering teams to build innovative Applied Computer Vision and Enterprise AI solutions addressing critical public sector problems. You will maintain data ingestion and model development pipelines with a strong focus on detail and testing, deploy cutting-edge AI algorithms into production, and build and maintain efficient pipeline tooling. This role allows you to make a significant impact on both the company and the broader AI field by solving challenging customer problems and integrating real-world ML Ops pipelines into the Clarifai platform.Key Responsibilities:Collaborate with scientists and engineers to enhance object detection, segmentation, tracking, and visual search capabilities and develop new products.Deploy production-ready models to customers and iteratively improve them based on feedback.Maintain our research ML infrastructure.Transition research projects from proof of concept to production.Integrate your work directly into Clarifai’s AI orchestration platformImpactYou will drive customer acquisition and revenue growth, working closely with various teams across the company, including research, backend, infrastructure, product, frontend, and design. This role offers a unique opportunity to make a substantial impact on the company and the AI industry.Requirements3+ years of experience with Python, focusing on Machine Learning or Computer Vision (PyTorch/TensorFlow).Strong MLOps philosophy and experience with associated tooling (Git, CI/CD, Docker, Kubernetes, Kubeflow, Hydra).Experience building and maintaining CI/CD pipelines with an emphasis on DevOps best practices.3+ experience with large scale software development: testing, automation, system-design, performance optimization, concurrent development3+ years of cloud exposure: AWS, Google Cloud, Azure (at least one of them)Comfortable working in a shell environment.Experience working with complex existing codebases.Eligible to obtain a U.S. Secret Security Clearance (U.S. Citizenship)Great to HaveExperience in object detection and tracking.Experience with model export (Torchscript, TensorRT).Experience with Golang, relational databases.The salary hiring range for this position is $125,000 - $175,000 and flexible depending on relevant experience."
+  },
+  {
+    "title": "MLOps Engineer - Grand Rapids, MI",
+    "company": "Software Technology Inc.",
+    "location": "Grand Rapids, MI",
+    "postDate": "1 month ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-grand-rapids-mi-at-software-technology-inc-3941634235?position=6&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=RFTHM415uXGXq3pht%2FTvjg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "QualificationsBachelor's degree in Computer Science, Engineering, or related field (Master's preferred).Proven experience as an MLOps Engineer or similar role, with a strong track record of deploying and managing machine learning models in production.Proficiency in programming languages such as Python, and experience with popular ML frameworks like TensorFlow or PyTorch.Familiarity with containerization technologies like Docker and orchestration tools like Kubernetes.Experience with cloud platforms such as AWS, Azure, or Google Cloud.Solid understanding of CI/CD principles and tools like Jenkins, CircleCI, or GitLab CI/CD.Strong knowledge of version control systems, preferably Git.Experience with monitoring tools and frameworks like Prometheus, Grafana, or ELK Stack.Ability to collaborate effectively with cross-functional teams and communicate technical concepts clearly.Excellent problem-solving skills and a proactive approach to troubleshooting and resolving issues.Strong attention to detail, organizational skills, and ability to manage multiple tasks and projects simultaneously.Experience with infrastructure as code (IaC) tools like Terraform or Ansible is a plus."
+  },
+  {
+    "title": "Junior MLOps Tester",
+    "company": "TekIntegral",
+    "location": "Westbrook, ME",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/junior-mlops-tester-at-tekintegral-3888465092?position=7&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=UBpXI1VyRO9kt9GjkfbwRQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "GyanSys Inc.",
+    "location": "Ann Arbor, MI",
+    "postDate": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-gyansys-inc-3955720424?position=8&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=a%2BLhTi7B%2F%2Fw%2Bjoby5bvUIg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "GyanSys is looking for MLOps Engineer for its direct client on C2C. This is hybrid role. Please share consultants only on your W2.Location: Ann Arbor, Michigan Azure ML and related Azure technologiesStrong programming skills in languages such as Python, Java, or ScalaResponsibilities:• Design, implement, and maintain end-to-end machine learning pipelines for model training, validation, and deployment.• Collaborate with data scientists, software engineers, and DevOps engineers to integrate machine learning models into production systems.• Develop automation tools and frameworks to streamline the machine learning workflow, including data preprocessing, feature engineering, model training, and evaluation.• Optimize model performance and scalability by leveraging cloud computing resources and distributed computing techniques.• Implement monitoring and logging solutions to track model performance, data quality, and system health in production.• Manage model versioning, experimentation, and reproducibility using version control systems and experiment tracking tools.• Stay up to date with the latest trends and technologies in machine learning, cloud computing, and software engineering, and incorporate them into the MLOps workflow.• Provide technical guidance and mentorship to junior team members on best practices for MLOps. Required Skillset:• Strong programming skills in languages such as Python, Java, or Scala.• Proven experience as an MLOps Engineer, specifically with Azure ML and related Azure technologies.• Familiarity with containerization technologies such as Docker and orchestration tools like Kubernetes.• Proficiency in automation tools like JIRA, Ansible, Jenkins, Docker compose, Artifactory, etc. • Knowledge of DevOps practices and tools for continuous integration, continuous deployment (CI/CD), and infrastructure as code (IaC).Bachelor's degree or higher in computer science, engineering, mathematics, or related field. About GyanSysGyanSys Inc is a global systems integrator & solutions provider focused on providing strategic business process, technology, platform, and managed service solutions. As a recognized innovator in digital and process transformation, we specialize in SAP and Salesforce implementations, managed services, and analytics. We integrate cutting edge solutions in complex multi-cloud environments to optimize operations and to maximize return on investment. With over 1500 consultants, we are headquartered in Indianapolis USA, with delivery centers in Bangalore, India and Manilla, Philippines."
+  },
+  {
+    "title": "MLOps Internship",
+    "company": "Subconscious AI",
+    "location": "New York, NY",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-internship-at-subconscious-ai-3934993443?position=9&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=ZvZNqPR8M0Pi3eOqCdLWtw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "ADLIB Recruitment | B Corp™",
+    "location": "United States",
+    "postDate": "1 month ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-adlib-recruitment-b-corp%E2%84%A2-3939083134?position=10&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=wHyr07EjzpO5%2FOUICE7a3g%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Lead the development and optimisation of cutting-edge MLOps platforms using AWS.Collaborate with a dynamic team to drive AI innovation and excellence for an industry-first.Flexible working environment, great compensation, excellent benefits and growth opportunities.Join an exciting team at a leading investment firm, where you will play a pivotal role in deploying and managing cutting-edge machine learning models. Work with advanced technologies in a collaborative environment and contribute to significant AI-driven solutions.What you’ll be doingAs a Senior MLOps Engineer, you will be at the forefront of deploying cutting-edge machine learning models and providing comprehensive support to ensure seamless integration into production environments. Your responsibilities will include:Developing and optimising the MLOps platform to streamline the ML lifecycle.Implementing and managing CI/CD pipelines for efficient development, testing and deployment processes.Collaborating with data scientists and engineers to drive innovation and excellence in AI solutions.Ensuring scalability, reliability, and performance of machine learning workloads through robust infrastructure management.Championing best practices for writing production-quality code and implementing robust ML frameworks.What Experience You’ll Need To ApplyProven track record in designing and implementing MLOps pipelines.Experience with MLOps frameworks, particularly SageMaker and MLFlow.Strong programming skills in Python, with production environment experience.Expertise in infrastructure management using Terraform/similar.Strong interpersonal skills to engage and collaborate with multiple stakeholders.What You’ll Get In Return For Your ExperienceBase salary of up to £80,000 plus bonus (15-25%).Flexible working options, including hybrid working or remote first contracts (1 day every 6-8 weeks in the office)25 days holiday plus bank holidays and additional Christmas closure time.Enhanced parental leave and pension scheme with up to 11% employer contribution.Private medical insurance, healthcare cash plans, and income protection.Opportunities for continuous learning and development, including mentoring and growth programs.Dynamic and inclusive work environment that values diversity and innovation.What’s next?If you’re ready to take on a pivotal role in an innovative environment for an industry first platform, please apply now with and up-to-date CV."
+  },
+  {
+    "title": "Machine Learning Operations (MLOps) Engineer",
+    "company": "Artmac",
+    "location": "Sunnyvale, CA",
+    "postDate": "4 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-operations-mlops-engineer-at-artmac-3962782771?position=11&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=wqOb0uP5KL7DDTFFrUNwOw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Remote Opportunity: MLOPS Engineer",
+    "company": "SPAR Information Systems LLC",
+    "location": "United States",
+    "postDate": "5 months ago",
+    "link": "https://www.linkedin.com/jobs/view/remote-opportunity-mlops-engineer-at-spar-information-systems-llc-3806322039?position=12&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=i%2Fs1kiUza8%2BumN05P8pqxw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "LLMOps/MLOps",
+    "company": "CitiusTech",
+    "location": "United States",
+    "postDate": "2 days ago",
+    "link": "https://www.linkedin.com/jobs/view/llmops-mlops-at-citiustech-3966478655?position=13&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=I3XlrGAIQUIg7PsvKe3LlQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Our vision: -To inspire new possibilities for the health ecosystem with technology and human ingenuity. We envision a world where MLOps and LLM Ops empower us to unlock the full potential of ML and LLMs, accelerating innovation and delivering real-world impact.What is in it for you?As a Subject Matter Expert - ML or LLM Ops, you will be a hands-on person help implement Organization MLOps and LLMOps strategy and overseeing the development of scalable infrastructure and processes.Be an Architect of Innovation:This is your opportunity to join a dynamic team and leverage your expertise as an MLOps & LLM Ops Engineer. You'll play a pivotal role in designing and implementing robust pipelines for our ML and LLM models, ensuring efficient deployment and continuous optimization.Responsibilities: -· Work with senior architects to drive the strategic direction and technical leadership for MLOps and LLM Ops initiatives and ensure alignment with business objectives.· Demonstrate an in-depth understanding of MLOps and LLM Ops principles, including data pipelines, model training, deployment frameworks, and monitoring techniques.· Design, develop, and implement robust MLOps and LLM Ops pipelines for efficient model training, deployment, and monitoring.· Collaborate with cross-functional teams (engineering, data science, product) to ensure seamless integration of ML and LLM models into production workflows.· Communicate complex technical concepts clearly to both technical and non-technical audiences.· Stay at the forefront of MLOps and LLM Ops advancements and identify and champion new tools and best practices.Experience: -· 5- 7 Years in DevOps/ MLOps with enterprise grade modelOps· 6 months- year in LLMOpsEducational Qualifications: -· Any Bachelor/ master's degree in computer science, Data Science, or a related field (or equivalent experience).Skills: -Mandatory Technical skills· Must be abreast with CSP’s (AWS, Azure and GCP) MLOPS and LLOPS stack. GCP preferred.· Should have expert level knowledge around deploying AI stack on Kubernetes cluster and scaling the same both horizontal and vertical.· Must have experience on deploying AI applications using native services.· Must have experience on VM provisioning and network set up· Minimum over 5 years of experience in MLOps or LLM Ops along with a proven track record of successful deployments.· In-depth knowledge of MLOps tools and platforms such as Kubernetes, Docker, Jenkins, Git, MLflow, LLM-specific tooling.· Familiarity with Cloud platforms (AWS, Azure, Google Cloud) and infrastructure as code (IaC) principles.· Experience in DevOps methodologies and CI/CD pipelines.· Strong understanding of machine learning pipelines, model training frameworks, and monitoring techniques.· Experience in large language models (LLMs) and their unique operational considerations is a plus.Good to have skills: -· Excellent communication, collaboration, and problem-solving skills.· Ability to translate technical concepts into clear and concise language.· A passion for innovation and a drive to optimize ML and LLM workflows.· Written and verbal skills especially to confidently express technical ideas and solutions.Life at CitiusTechWe focus on building highly motivated engineering teams and thought leaders with an entrepreneurial mindset, centered on our core values of Passion, Respect, Openness, Unity, and Depth (PROUD) of knowledge. Our success lies in creating a fun, transparent, non-hierarchical, diverse work culture that focuses on continuous learning and work-life balance.Rated by our employees as the ‘Great Place to Work for’ according to the Great Place to Work survey. We offer you a comprehensive set of benefits to ensure that you have a long and rewarding career with us.Our EVPBe You Be Awesome is our EVP and it reflects our continuing efforts to create CitiusTech as a great place to work where our employees can thrive, both personally and professionally. It encompasses the unique benefits and opportunities we offer to support your growth, well-being, and success throughout your journey with us and beyond. Together with our clients, we are solving some of the greatest healthcare challenges and positively impacting human lives. Welcome to the world of Faster Growth, Higher Learning, and Stronger Impact.Join CitiusTech. Be You. Be Awesome. To learn more about CitiusTech, visit www.citiustech.com and follow us on social media."
+  },
+  {
+    "title": "Senior MLOps Engineer",
+    "company": "Gratiture Solutions",
+    "location": "United States",
+    "postDate": "1 month ago",
+    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-at-gratiture-solutions-3924151205?position=14&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=XTuQb9qOCtZEm5Rvn3TTOw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Job DescriptionSenior MLOps EngineerA well-established company that is determined to become the most consumer-centric health organization by leveraging cutting-edge technologies and innovations, is looking for a Senior MLOps Engineer. The engineer will play an instrumental role in deploying robust, scalable machine learning solutions. The candidate will ensure these are tailored to meet the expansive needs of varied healthcare services. The company is driving a transformation in health care by expanding their footprint and providing more accessible, supportive, and personalized care. This role demands a high level of proficiency in machine learning technologies and programming, coupled with rigorous vetting processes to maintain the highest standards of data integrity and security.Required Skills:  Natural Language Processing (NLP) 3 YOE Tensorflow OR PyTorch 1 YOE Pandas OR Scipy OR Numpy 1 YOEVisa Independent ( Non sponsorship position) Location : Remote and EST time zone  Start date for role: 20th May, ‘24Job Responsibilities: Rapidly develop and deploy production-ready ML models, with a focus on scalability and monitoring across a broad range of applications within healthcare Write efficient, maintainable, and scalable Python code tailored to specific business needs Build high-performance, multi-tenant deployment architectures, and sophisticated model monitoring systems Directly engage with internal stakeholders to incorporate feedback and refine the ML-driven products through quick iteration cycles Uphold stringent security protocols and processes in the deployment and maintenance of machine learning models Drive the continuous advancement of MLOps practices within the healthcare industry by developing innovative solutions and advocating for best practicesJob Requirements: Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience) At least 5+ years of relevant experience as an MLOps Engineer At least 3+ years of experience with transformer-based models and NLP, preferably in a healthcare context Strong track record of fine-tuning, running large-scale training jobs, and managing model servers like vLLM, TGI, or TorchServe Proficiency in data science tools such as Pandas, Notebooks, Numpy, and Scipy Demonstrable experience with both relational and non-relational databases Extensive experience with TensorFlow or PyTorch, and familiarity with HuggingFace Knowledge of model analysis and experimentation frameworks such as MLFlow, W&B, and tfma is preferred Comfortable with a Linux environment and stringent data security practices Must pass a rigorous vetting process, including extensive background checks to ensure the highest standards of data security and integrity Fluent in English communication, both written and spoken. Company DescriptionWe strive to provide the highest quality recruitment, screening, and customer service to help grow exceptional teams as well as assist professionals advance in their desired careers. Integration is at the heart of digital transformation, and Our initiatives are designed to help customers across industries accelerate time to market with our agile workforce. Our Core team includes domain experts from multiple industries with thorough knowledge and understanding of the essential aspects of any IT demand.We strive to provide the highest quality recruitment, screening, and customer service to help grow exceptional teams as well as assist professionals advance in their desired careers. Integration is at the heart of digital transformation, and Our initiatives are designed to help customers across industries accelerate time to market with our agile workforce. Our Core team includes domain experts from multiple industries with thorough knowledge and understanding of the essential aspects of any IT demand."
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Glassbeam, Inc",
+    "location": "Santa Clara, CA",
+    "postDate": "1 year ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-glassbeam-inc-3349007309?position=15&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=m%2FoXdIylvDF6WuHYM7DKjA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "FinThrive",
+    "location": "United States",
+    "postDate": "1 week ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-finthrive-3956372884?position=16&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=1tfttDr%2FFsbOoJU9E6uOuw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLops Engineer MAHIN-JOB-32325",
+    "company": "Keylent Inc",
+    "location": "Plano, TX",
+    "postDate": "3 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-mahin-job-32325-at-keylent-inc-3862184692?position=17&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=jdF5eRrDc6HVP%2Bi6s1t5ng%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "MLops Engineer MAHIN-JOB-32325Position :- MLops EngineerLocation :- Plano TXKey Skills :- AI/Client,kubernetes, Real Time system stats collection, performance monitoring MLOps in AWS, GCP and CI/CD pipelineBachelor's degree or above in Computer Science/Engineering or other related areas.Four or more years of work experience in computer software development related jobs.At least two years are in AI / Client Engineering areas with reasonably good understanding of Data Science and AIML practices/workflows.Strong expertise in RTML model serving arena and/or large scale cloud-based RT framework development.Experience with programming languages such as Python and Java.Experience in large application development in cloud environments - AWS, GCP and On-Prem clusters.Experience in K8s architecture and principle of operations, hands-on skills of deploying large applications in production K8s cluster, configuring K8s properly, and troubleshooting when the application has issues.Good understanding of of RT system stats collection and performance monitoring methodsBasic understanding of RT Feature Engineering methodology and practicesUnderstand basic data science concepts and common needs from data scientists.Strong collaboration skills and communication skills, especially when involving (non-tech) business stakeholders.Experience with cloud infrastructures and MLOps in clouds.Familiar with CI/CD process and common frameworks such as ArgoCD."
+  },
+  {
+    "title": "Devops SRE with MLOPs Experience",
+    "company": "AppLab Systems, Inc",
+    "location": "Austin, TX",
+    "postDate": "",
+    "link": "https://www.linkedin.com/jobs/view/devops-sre-with-mlops-experience-at-applab-systems-inc-3965448884?position=18&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=%2FL1VymsrpAc4IznKKiA7YQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Mavinsys",
+    "location": "Austin, TX",
+    "postDate": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-mavinsys-3952669251?position=19&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=%2BswBYNbXV42%2Bt%2Bv7T8zkkw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Hello, We are from Mavinsys Talent Acquisition team based on One World Trade Centre, New York. We are specializing in IT services and staffing majorly in lateral hiring/contract. Below is one of our requirement to fill immediately, if you're interested, please share your candidature to joinus@mavinsys.com Job Title: MLOps Engineer Location: Austin, TX San Jose, CA Duration: 12months Job Description; • The MLOps engineer should have 5+ years of experience in Python Pandas, Spark and will have experience building large-scale data   pipelines. • Experience in Seldon, Triton, Jenkin CI/CD. • One year of experience in Big data technologies such as BigQuery, Hadoop, SQL, Hive, GCP/Azure, Java, REST Responsibilities:  • Design & create the data pipelines and engineering infrastructure to support our clients' enterprise machine learning systems at scale • Take models that data scientists built and turn them into a machine learning production system • Develop and deploy scalable tools and services for our clients to handle machine learning training and inference • Identify and evaluate new technologies to improve the performance, maintainability, and reliability of our clients' machine learning systems • Apply software engineering rigor and best practices to machine learning, including CI/CD, automation, etc. • Support model development with an emphasis on auditability, versioning, model measurement and data security • Interpret the results of the models, read data on a fundamental level, and understand how it relates to the problem being solved by the   model. • Monitor the performance of your models, and need to be able to troubleshoot any errors or bugs that may occur."
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "MashPoint - Technology & Staffing- merged with HuMetis group Inc",
+    "location": "New York, NY",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-mashpoint-technology-staffing-merged-with-humetis-group-inc-3888429429?position=20&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=YGN1YtEPVXf52ueV26%2BiDg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Sr. MLOps Engineer",
+    "company": "Warrior Tech Solutions",
+    "location": "Dallas, TX",
+    "postDate": "5 months ago",
+    "link": "https://www.linkedin.com/jobs/view/sr-mlops-engineer-at-warrior-tech-solutions-3803195090?position=21&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=UBgH5oCeK6Wl2zjK9L9xZw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Job Title: Sr. Machine Learning EngineerLocation: Irving, TXQualification10+ years of experience in implementing MLOps processes and solutions within the Azure ecosystem.Proficiency in Azure cloud services, including AzureML, Azure DevOps, Azure Kubernetes Service (AKS), Azure Databricks, and other relevant Azure services.Strong knowledge of machine learning frameworks and tools compatible with Azure and scikit-learn.Familiarity with Azure Resource Manager templates and Infrastructure as Code (IaC).Experience with version control systems, particularly Git, and CI/CD pipelines using Azure DevOps.Should have implemented test automation scripts to validate the deployment process.Scripting and coding skills, with proficiency in languages such as Python, PySpark, PowerShell, or Azure CLI.Understanding of security and compliance standards within the Azure ecosystem.Should have executed atleast 2 Azure MLOps projectShould have worked atleast 2 projects using Agile/SAFe methodologyProblem-solving and troubleshooting abilities.Should have cross global location experience and been part of a team with atleast 15+ members in a global delivery modelAzure-specific certifications can be a plus, such as Microsoft Certified: Azure AI Engineer Associate or Microsoft Certified: Azure DevOps Engineer Expert.ResponsibilitiesCollaborate with data scientists and engineers to design, build, and maintain Azure-based MLOps pipelines for automating machine learning model deployment, monitoring, and maintenance.Configure and manage Azure cloud resources to support machine learning workloads efficiently.Collaborate with Azure administrators to ensure scalable and reliable infrastructure for MLOps.Implement Azure-based deployment pipelines for deploying machine learning models into production environments.Implement test automation script to monitor & validate the deployment process.Work alongside data engineers to develop and maintain data pipelines on Azure, ensuring proper data governance and integration with MLOps pipelines.Implement data versioning, data lineage tracking, and other data management best practices.Implement test automation script to monitor & validate the deployment process.Ensure that MLOps processes on Azure adhere to security and regulatory standards.Monitor and troubleshoot application and infrastructure issues and implement solutions in a timely mannerCollaborate with development and BI teams to ensure code quality and application performanceStay updated on the latest Azure MLOps tools and services and integrate improvements into existing processes.Kindly share the resumes to *vijay@warriortechsolutions.com* or contact@ +1 813 322 4583Deadline for Submission : 01/13/2024"
+  },
+  {
+    "title": "Machine Learning Operations (MLOps) Engineer - AWS (with LLM Focus)",
+    "company": "Vakula Technologies Inc",
+    "location": "Hollywood, FL",
+    "postDate": "6 days ago",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-operations-mlops-engineer-aws-with-llm-focus-at-vakula-technologies-inc-3961585224?position=22&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=m0DexrwMW3XileAPJPLAVw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Enginieer",
+    "company": "VRK IT Vision Inc.",
+    "location": "United States",
+    "postDate": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-enginieer-at-vrk-it-vision-inc-3951768364?position=23&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=FNH4cx7pfi4AnVXPF7i7tw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Sr. MLOps Engineer || Dallas TX (onsite Role)",
+    "company": "Strategism, Inc",
+    "location": "Dallas, TX",
+    "postDate": "4 months ago",
+    "link": "https://www.linkedin.com/jobs/view/sr-mlops-engineer-dallas-tx-onsite-role-at-strategism-inc-3829380271?position=24&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=Mf%2Fe8Uhc%2F5JBGUPPreRhow%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Triunity Software, Inc.",
+    "location": "Austin, TX",
+    "postDate": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-triunity-software-inc-3952359325?position=25&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=vJvNz3d%2FZg6QK2i2wAR0CA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "ML Operations Engineer (MLOps)",
+    "company": "Unreal Staffing, Inc",
+    "location": "San Francisco, CA",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/ml-operations-engineer-mlops-at-unreal-staffing-inc-3895822106?position=26&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=d4LeBhz%2BmJXJNEa%2BPjWQrg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Looking for Azure AI DevOps/MLOps - NYC NY (Hybrid) - Contract // Urgent Hiring",
+    "company": "Extend Information Systems Inc.",
+    "location": "New York, NY",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/looking-for-azure-ai-devops-mlops-nyc-ny-hybrid-contract-urgent-hiring-at-extend-information-systems-inc-3909185899?position=27&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=KJfDml9rXVWBCt3njNes3A%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "AI-ML Engineers for MLOPs/LLM Ops Capability Development",
+    "company": "Zortech Solutions",
+    "location": "Concord, CA",
+    "postDate": "3 months ago",
+    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineers-for-mlops-llm-ops-capability-development-at-zortech-solutions-3890311657?position=28&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=gRm19cC2gDeopHuqLhublQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Role: AI-ML Engineers for MLOPs/LLM Ops Capability DevelopmentLocation: Charlotte, NC/Concord, CA-Day one onsiteDuration: 6+ MonthsJob DescriptionParticipate in developing Generative AI Platform Capabilities Responsible for AI model delivery to on-prem infrastructure and cloud platforms (GCP-Vertex AI, Azure ML) Participate in day-to-day standups for platform capability build Provide SME guidance for data science teams Core Experience Needed: 5+ years of Python experience 5+ years of big data experience needed (Big Query, Hadoop) 3 years of experience in the AIML area (MLOps) 2+ years of experience in developing APIs using Python/FastAPI. Additional skills needed: 1+year of experience in LLM, Generative AI (developing capabilities or dev/ops) Experience in developing API on GCP/Azure/API Gateways 1+ years of experience in Vector Database, and Model Development would be an added benefit. In this role, you will: Participate in developing Generative AI Platform Capabilities Responsible for AI model delivery to on-prem infrastructure and cloud platforms (GCP-Vertex AI, Azure ML) Participate in day-to-day standups for platform capability build Research industry best practices, evaluate new technologies, develop standards and engineering best practices and recommend innovative solutions that support automation and improve platform resiliency and fault tolerance of critical applications Execute on roadmaps that align with technology and business strategy. Perform hardware and capacity planning, analysis and forecasts for your portfolio of applications with focus on highest availability, scalability, performance, and timely delivery Act as an expert resource for other technical teams within DTI Minimum Requirements5+ years of Python experience 5+ years of big data experience needed (Big Query, Hadoop) 5+ years with Linux O/S capabilities 3 years of experience in AIML area (MLOps) 3+ years of Pyspark experience 3+ years with VMWare Virtualization technologies Working knowledge of Auto ML technologies such as H2O Driverless AI, DataRobot, VertexAI, Elastic and Vector DB Excellent verbal, written, and interpersonal communication skills. Ability to articulate technical solutions to both technical and business audiences Recent and demonstrated ability to influence management on technical or business solutions Working knowledge of design and build grid computing with CPU and GPU supporting AIML and NLP Working knowledge of high-performance storage technologies along with Object Storage Knowledge and understanding of network infrastructure to support high throughput and low latency grid computing Preferred Skills1+year of experience in LLM , Generative AI (developing capabilities or dev/ops) Experience in developing of API on GCP/Azure/API Gateways 1+year of experience in Elastic Search, Vector Database, Model Development would be added benefit. Experience with data processing technology (AbInitio, Informatica, IBM DataStage) Experience with large data technology (Hadoop, Teradata, Elasticsearch, etc.) Understanding of Agile practices and ability to work with Agile teams to define and track user stories Experience with implementing complex F5 or other Load Balancer Technologies Working knowledge of building high resiliency grid/cloud computing infrastructure supporting AIML and NLP workloads Knowledge and understanding of Cloud computing, PaaS design principles and micro services and containers Working knowledge/experience with Azure and/or GCP, as well as some experience building complex infrastructure programmatically with IaC tools (Terraform/Ansible etc.) Working knowledge/experience with on-premise and Public Cloud technologies, such as Cloud Foundry, Kubernetes, Docker Experience in leading / facilitating analysis of current systems and problem identification and resolution Ability to lead / facilitate technically complex discussions and working sessions in person or via teleconference"
+  },
+  {
+    "title": "AI DevOps/ML/ MLOps with Azure",
+    "company": "Cybertec, Inc",
+    "location": "New York, NY",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/ai-devops-ml-mlops-with-azure-at-cybertec-inc-3913496465?position=29&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=C%2FJ8YEcgKiZjNAhg9P8EKQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Vianai Systems, Inc.",
+    "location": "Palo Alto, CA",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-vianai-systems-inc-3934999749?position=30&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=1jCBq4Pce1%2FjzpQK2uZErg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Intelliswift Software",
+    "location": "Rhode Island, United States",
+    "postDate": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-intelliswift-software-3923193151?position=31&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=Yq0OYlGnQOMzIzx9%2BK28wA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Developer with AWS",
+    "company": "IT Minds LLC",
+    "location": "United States",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-developer-with-aws-at-it-minds-llc-3914118042?position=32&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=CJE3NQhrrqTQNZSvXYtfsw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Data Engineer/MLOps",
+    "company": "Diverse Lynx",
+    "location": "Irving, TX",
+    "postDate": "",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-mlops-at-diverse-lynx-3965439723?position=33&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=68XchgKdInh6X9Y8Er34uA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOPS Engineer",
+    "company": "Accord Technologies Inc",
+    "location": "Charlotte, NC",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-accord-technologies-inc-3888465827?position=34&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=qaUDGkOCke6KydkrndDbxA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Sr MLOPS Engineer",
+    "company": "CloudSpace LLC",
+    "location": "North Carolina, United States",
+    "postDate": "1 week ago",
+    "link": "https://www.linkedin.com/jobs/view/sr-mlops-engineer-at-cloudspace-llc-3956178964?position=35&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=Ukt1lMiI%2BwsemQO5nBGyAQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Required QualificationsAbility to design and implement cloud solutions and ability to build MLOps pipelines on cloud solutions (AWS, MS Azure or Google Cloud Platform)Experience with MLOps Frameworks like Kuberflow, MLFlow, DataRobot, Airflow etc., experience with Docker and Kubernetes, OpenShiftProgramming languages like Python, Go, Ruby or Bash, good understanding of Linux, knowledge of frameworks such as scikit-learn, Keras, PyTorch, Tensorflow, etc.Ability to understand tools used by data scientist and experience with software development and test automationFluent in English, good communication skills and ability to work in a teamDesired QualificationsBachelor s degree in Computer Science or Software EngineeringExperience in using AWS, MS Azure or Google Cloud Platform services.Good to have any associate Cloud Certification"
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Eleccion, LLC",
+    "location": "Chantilly, VA",
+    "postDate": "1 month ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-eleccion-llc-3928904716?position=36&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=SJEST%2BUuI7nF9Ng%2FqKrEJQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Overview/ResponsibilitiesEleccion is seeking a Machine Learning Operations Engineer to support a client mission office with infrastructure and related services for a data / machine learning (ML) environment. Duties will include implementation of infrastructure as code with continuous integration/continuous delivery & deployment (CD/CI) and user experience (UI) components, automation of deployments of new and updated elements of the data pipeline, performance monitoring, auto-scaling, support for integration of new tools and capabilities, disaster recovery and continuity of operations planning, documentation, and INFOSEC processes. Elements of the environment are to be increasingly containerized and deployed on GPUs.QualificationsRequired:5 years of experience and bachelor's degree or 10 years of experienceExperience with advanced Python programming for data science and analyticsExperience with Linux and BashExperience with Docker & use of command line interface to orchestrate containerizationExperience creating unit tests, documentation, and participating in code reviewsExperience with ML modelsExperience with developing CI/CD workflows across multiple environmentsExperience with management of non-person entities in multiple environments DesiredExperience with ELK stack, AWS, and Nvidia TritonExperience with OAuth 2.0 open standard protocolExperience with at least some of: NLP, computer vision, times series, cyber / network analysisAbility to obtain Nutanix certification or Kubernetes certification within 3 months of start All candidates must have a TS/SCI clearance with a Full-Scope Polygraph. Eleccion provides a competitive, comprehensive benefits package for all our employees."
+  },
+  {
+    "title": "Senior MlOps Engineer",
+    "company": "Strativ Group",
+    "location": "San Francisco Bay Area",
+    "postDate": "4 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-at-strativ-group-3943107997?position=37&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=txeYvJVNio1nQKslcsi%2Bsg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Harnham",
+    "location": "New York City Metropolitan Area",
+    "postDate": "6 days ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-harnham-3963040683?position=38&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=fWAXHXC8hJr54hs9OJP9Vg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Data Scientist (ML) and (AI)",
+    "company": "Extend Information Systems Inc.",
+    "location": "New York, NY",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-ml-and-ai-at-extend-information-systems-inc-3908686891?position=39&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=isPnl0RjvaT0aNqQ%2FEP9Kg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Engineering Manager - MLOps",
+    "company": "Cognitiv",
+    "location": "Bellevue, WA",
+    "postDate": "1 week ago",
+    "link": "https://www.linkedin.com/jobs/view/engineering-manager-mlops-at-cognitiv-3960263226?position=40&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=EA7VylGi%2BGnyOv37V0G87g%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Harnham",
+    "location": "United States",
+    "postDate": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-harnham-3953805946?position=41&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=l4xYrxZMzSwdF%2BtMLAkugg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "ML Ops Engineer",
+    "company": "VIR Consultant LLC",
+    "location": "Queens County, NY",
+    "postDate": "5 months ago",
+    "link": "https://www.linkedin.com/jobs/view/ml-ops-engineer-at-vir-consultant-llc-3808555243?position=42&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=6A%2BjRuQZl7R%2FAqv%2BmGhCjA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Stanford Health Care",
+    "location": "Sacramento, CA",
+    "postDate": "8 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-stanford-health-care-3727279439?position=43&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=EOCE8AuHGwI6doDgkV3cyw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps & AI Engineer",
+    "company": "Net2Source Inc.",
+    "location": "United States",
+    "postDate": "3 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-ai-engineer-at-net2source-inc-3860312646?position=44&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=iR%2BIdqPQhk7bvLqz%2FAwNAg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Dematic",
+    "location": "Atlanta, GA",
+    "postDate": "1 day ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-dematic-3828249118?position=45&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=ytylZvHTTwOT90z5V2ZJMA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Sr. MLOps Engineer with AZURE and LLM",
+    "company": "Warrior Tech Solutions",
+    "location": "Dallas, TX",
+    "postDate": "3 months ago",
+    "link": "https://www.linkedin.com/jobs/view/sr-mlops-engineer-with-azure-and-llm-at-warrior-tech-solutions-3865770491?position=46&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=bBQeEvCxymIPH%2BqmteRiZw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "Artmac",
+    "location": "Dallas, TX",
+    "postDate": "6 days ago",
+    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-artmac-3962145658?position=47&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=rlM%2FWviT51mCOMZUhsG4yQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Who We AreArtmac Soft is a technology consulting and service-oriented IT company dedicated to providing innovative technology solutions and services to Customers.Job DescriptionJob Title : AI/ML EngineerJob Type : W2 / C2C / 1099Experience : 8-10 YearsLocation : Dallas, TexasWe are seeking an experienced AI/ML Engineer who will have a strong background in computer science or engineering, with significant experience in AI and machine learning engineering. You will be responsible for developing and deploying large-scale applications in cloud environments, ensuring robust performance monitoring, and collaborating effectively with both technical and non-technical stakeholders.ResponsibilitiesFour or more years of experience in computer software development.At least two years of experience in AI/ML Engineering.Proficiency in programming languages such as Python and Java.Experience in developing large applications in cloud environments (AWS, GCP, on-premise).Hands-on experience with Kubernetes (K8s) for deploying and managing large applications.Strong understanding of real-time system performance monitoring and statistics collection.Basic knowledge of real-time feature engineering practices.Understanding of basic data science concepts and the needs of data scientists.Strong collaboration and communication skills, especially with non-technical business stakeholders.Experience with cloud infrastructures and MLOps practices.Familiarity with CI/CD processes and frameworks such as ArgoCD.Develop, deploy, and maintain large-scale applications in cloud environments including AWS, GCP, and on-premise clusters.Utilize expertise in RTML model serving and large-scale real-time framework development.Implement and manage Kubernetes (K8s) architecture, ensuring proper configuration and troubleshooting.Collect and monitor real-time system performance statistics.Apply basic real-time feature engineering methodologies and practices.Collaborate with data scientists to understand their needs and integrate AI/ML solutions effectively.Engage with business stakeholders to understand requirements and communicate technical solutions clearly.Ensure the adoption of best practices in MLOps and cloud infrastructures.Implement and manage CI/CD processes using frameworks such as ArgoCD.QualificationBachelor's degree or equivalent combination of education and experience"
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Zencon Group",
+    "location": "United States",
+    "postDate": "5 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-zencon-group-3797047264?position=48&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=a7wtKAhJpOXy%2FQE56%2BV7Tg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Our client, a Global Giant in Video Game Publishing and Distribution, is looking to engage a Senior Client Engineer (MLOps) with demonstrated professional experience operationalizing Client models built leveraging Databricks, to join a team that supports a variety of business-critical data-driven initiatives. In this role, you will be helping to support decisions that will contribute to the Company's outstanding growth and market leadership.        Responsibilities:               Hands-on experience operationalizing Client models that have been created by a Data Science team            Professional experience leveraging MLFlow within MLOps is HIGHLY desired            Working with Data scientists, design, develop and maintain pipelines that support the deployment of Client models and algorithms, monitors data drift and integrate with downstream applications.            Design, develop and maintain high-capacity and scalable data and Client pipelines.            Design, develop and maintain API based or file based ETL/ELT processes for raw data collection from multiple sources.            Collaborate with other data engineers, data scientists and business intelligence engineers to build data and machine learning solutions.            Provide thought leadership and collaborate with other team members to continue to scale our architecture to evolve for the needs of tomorrow.            Develop and support continuous integrations build and deployment processes using Jenkins, Docker, Git, etc.            Define and implement monitoring and alerting policies for data solutions.                  Requirements:               7+ years of professional experience concentrated on Machine Learning engineering, with at least 2+ years of professional experience with Databricks (   specifically for Client - not data engineering) - including experience with Unity Catalog and Asset Bundling            Professional experience operationalizing Machine Learning / Data Science models              MLOps experience (required)              MLFow is a MAJOR Plus            PySpark (required)              MUST have strong experience with Future store and Model store            Python (required)            SQL (required)            Experience with designing (end-to-end), implementing and extending complex data pipelines            Experience with DataFrames            Git (required)            Developing solutions using Docker (required)            Data modeling for data warehousing (required)            Developing microservices (nice to have)                 NOTE: Selected candidate MUST be available to work on-site at the client's Midtown NYC offices THREE (3) days per week: either M/T/W or T/W/H schedule (for the duration of the engagement)."
+  },
+  {
+    "title": "AWS/ML Ops Specialist",
+    "company": "Steneral Consulting",
+    "location": "Falls Church, VA",
+    "postDate": "1 month ago",
+    "link": "https://www.linkedin.com/jobs/view/aws-ml-ops-specialist-at-steneral-consulting-3918875212?position=49&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=0msT7ukHTgVCq12FVBhgUg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Senior ML Operations Engineer (MLOps)",
+    "company": "Unreal Staffing, Inc",
+    "location": "San Francisco, CA",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/senior-ml-operations-engineer-mlops-at-unreal-staffing-inc-3897983124?position=50&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=JAwWPVXodk85AGF5UCN4rA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Company Overview: Welcome to the forefront of machine learning operations (MLOps)! Our company is dedicated to harnessing the power of machine learning to drive innovation and transform industries. We're committed to developing cutting-edge ML solutions that deliver real-world impact and value to our customers. Join us and be part of a dynamic team shaping the future of MLOps.Position Overview: As a Senior ML Operations Engineer, you'll play a critical role in building and maintaining the infrastructure and processes that enable the deployment, monitoring, and management of machine learning models at scale. You'll work closely with data scientists, software engineers, and DevOps teams to streamline the machine learning lifecycle and ensure reliable and efficient model operations. If you're a seasoned engineer with a passion for machine learning and a track record of designing and implementing MLOps solutions, we want you on our team.RequirementsKey Responsibilities: Infrastructure Design: Design and implement scalable and reliable infrastructure for deploying and serving machine learning models, leveraging cloud platforms and containerization technologies Model Deployment: Develop automated pipelines for deploying machine learning models into production environments, ensuring consistency, reliability, and reproducibility Monitoring and Alerting: Implement monitoring and alerting systems to track model performance, data drift, and other metrics, enabling proactive detection and mitigation of issues Model Versioning and Management: Establish version control and management processes for machine learning models, enabling easy tracking, rollback, and experimentation Continuous Integration/Continuous Deployment (CI/CD): Implement CI/CD pipelines for automating model training, testing, and deployment, reducing time to market and improving agility Scalability and Efficiency: Optimize the performance and scalability of machine learning infrastructure, leveraging techniques such as distributed computing, parallelization, and resource management Security and Compliance: Ensure machine learning systems comply with security and privacy standards, implementing access controls, encryption, and other security measures as needed Documentation and Best Practices: Document MLOps processes, best practices, and standards, providing guidance and training to data scientists and engineers Collaboration: Collaborate with cross-functional teams, including data scientists, software engineers, and DevOps teams, to streamline the machine learning lifecycle and drive continuous improvement Research and Innovation: Stay informed about the latest advancements in MLOps tools and technologies, exploring innovative approaches and techniques to enhance machine learning operationsQualifications:Bachelor's degree or higher in Computer Science, Engineering, Mathematics, or related field5+ years of experience in software engineering, DevOps, or related roles, with a focus on building and maintaining infrastructure for machine learning operationsStrong understanding of machine learning concepts and techniques, with experience working with data science teams and machine learning modelsProficiency in programming languages such as Python, Java, or Scala, and experience with cloud platforms such as AWS, Azure, or Google Cloud PlatformExperience with containerization technologies such as Docker and orchestration tools such as KubernetesFamiliarity with machine learning frameworks and libraries such as TensorFlow, PyTorch, scikit-learn, or MLflowExperience with CI/CD pipelines, version control systems, and automation tools such as Jenkins, GitLab, or CircleCIStrong problem-solving skills and analytical thinking, with the ability to troubleshoot complex issues and optimize system performanceExcellent communication and collaboration skills, with the ability to work effectively in cross-functional teams and communicate technical concepts to non-technical stakeholdersBenefitsCompetitive salary: The industry standard salary for Senior ML Operations Engineers typically ranges from $170,000 to $250,000 per year, depending on experience and qualificationsComprehensive health, dental, and vision insurance plansFlexible work hours and remote work optionsGenerous vacation and paid time offProfessional development opportunities, including access to training programs, conferences, and workshopsState-of-the-art technology environment with access to cutting-edge tools and resourcesVibrant and inclusive company culture with opportunities for growth and advancementExciting projects with real-world impact at the forefront of MLOps innovationJoin Us: Ready to shape the future of machine learning operations? Apply now to join our team and drive innovation in MLOps!"
+  },
+  {
+    "title": "Senior ML Operations Engineer (MLOps)",
+    "company": "Unreal Staffing, Inc",
+    "location": "San Francisco, CA",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/senior-ml-operations-engineer-mlops-at-unreal-staffing-inc-3897981425?position=51&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=tNtqMIGewuQv82eGhGbhxQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Engineering Manager - MLOps",
+    "company": "Cognitiv",
+    "location": "Greater Seattle Area",
+    "postDate": "",
+    "link": "https://www.linkedin.com/jobs/view/engineering-manager-mlops-at-cognitiv-3961446224?position=52&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=AZnFpfrVgK2kQcS5FkMpLw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": "Cognitiv leverages deep learning artificial intelligence to build custom algorithms that more accurately and efficiently predict consumer purchase behavior. Each marketer has a unique set of goals, which is why Cognitiv created NeuralMind, a deep learning platform capable of automatically building custom algorithms that simultaneously consider the user, the context, the message, and the campaign objectives. We combine deterministic data and advanced processing techniques to continuously train these algorithms as they optimize our clients’ key performance indicators (KPIs), predicting consumer behavior in order to autonomously drive full-funnel marketing performance at scale.We are looking for an Engineering Manager to take full responsibility for Cognitiv projects. Applicant will oversee the project vision, planning and timelines, and the development and management of engineers. This position will play a key role in the development of our ML Ops platform. Your work will directly enable Cognitiv's team of data scientists to build the next generation of deep learning models that allow our campaigns to perform at scale.This position will be located in Bellevue, WA with a hybrid work schedule of 3 days in office (Mon/Tue/Wed) and 2 days remote (Thursday/Friday). The schedule is the same across all business units/office locations.ResponsibilitiesManage priorities and tasks for a team of developersDevelop the skills of junior developersGuide technical project objectives and deadlinesImplement and monitor technical strategy performance metricsDirect the work of engineers to ensure the best practices around software developmentReview engineers code and provide meaningful feedbackSupport, coach and develop high performing engineers through regular 1:1s, continuous feedback and relationships with othersConstantly search for improvements in process, improve software delivery and operational processesCollaborate closely with cross-functional peers to set the direction of your team and develop your product roadmapCoordinate internal teams to ensure project timelines and budgets are metRequirements4 years of experience in any programming languageHas led technical teams and projects previouslyExpertise with the Software Development Life Cycle, software-based tools and workflows.Strong written and verbal communication, organizational, and negotiation skills.Possess strong analytical skills; ability to inspect, analyze, and influence using dataCommitment to quality in every assignment, large or smallPreferred QualificationsExperience with Terraform (infrastructure as code)Experience with ML Ops technologies (Orchestration, Model Management, Feature Stores, etc)Experience collaborating with science teamsSalary$160,000-$210,000 Base Salary + EquityActual compensation is based on multiple factors that are unique to each candidate, including and not limited to job-related knowledge, level of relevant experience, education and skills. Base salary is just one component of your total rewards package at Cognitiv. Employees are eligible for equity and various benefits.Here are some of the many benefits that our employees receive:• Medical, Dental and Vision coverage, including some plans that are 100% employer paid• 12 weeks paid parental leave• Unlimited PTO• Hybrid work model• Lunch reimbursement• Fitness reimbursement• Cell phone reimbursement• 401(k) plan• Employee Assistance Program• Pre-tax commuter benefitsCognitiv has been revolutionizing the programmatic/ad tech space for the last 8 years as the only programmatic buying platform to leverage Deep Learning in real-time. We use Deep Learning (the most sophisticated machine learning) to build custom algorithms for digital marketers to help grow their customer base. We have seen explosive growth and are looking for talented people who have a passion to learn about AI and are looking to affect change in a rapidly growing organization. You will be a valued member in a company with great culture and generous benefits.Cognitiv is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law."
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Harnham",
+    "location": "United States",
+    "postDate": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-harnham-3950533675?position=53&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=wp24A45QANfXGbsYbptNGQ%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "AWS/ML Ops Specialist",
+    "company": "Steneral Consulting",
+    "location": "Falls Church, VA",
+    "postDate": "1 month ago",
+    "link": "https://www.linkedin.com/jobs/view/aws-ml-ops-specialist-at-steneral-consulting-3919672343?position=54&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=RRxKi4iWN7XPfr7mm7aCPg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Senior MLOps Engineer",
+    "company": "DeepRec.ai",
+    "location": "San Francisco, CA",
+    "postDate": "1 month ago",
+    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-at-deeprec-ai-3911883376?position=55&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=AFMzAp41%2FemIsF422eqBPw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Lead ML Operations Engineer (MLOps)",
+    "company": "Unreal Staffing, Inc",
+    "location": "San Francisco, CA",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/lead-ml-operations-engineer-mlops-at-unreal-staffing-inc-3897983139?position=56&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=XqiVO4hYTqEn7SwIevs5Fg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Staff MLOps Engineer",
+    "company": "Storm3",
+    "location": "United States",
+    "postDate": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/staff-mlops-engineer-at-storm3-3955571679?position=57&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=nCRnP3eeLVsc4v%2Bo6%2FzDhg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "MlOPS Engineer with google vertiex AI",
+    "company": "HCL Global Systems Inc",
+    "location": "Farmington Hills, MI",
+    "postDate": "3 months ago",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-with-google-vertiex-ai-at-hcl-global-systems-inc-3862182428?position=58&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=DjnW4NEuJY58KBAJvGihVg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "GCP ML AI Engineer [Hybrid]- w2 only",
+    "company": "SmartIPlace",
+    "location": "Dearborn, MI",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/gcp-ml-ai-engineer-hybrid-w2-only-at-smartiplace-3901504080?position=59&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=uPFhoiNhLLnh%2BWexYRJUPw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  },
+  {
+    "title": "Senior ML Operations Engineer (MLOps)",
+    "company": "Unreal Staffing, Inc",
+    "location": "San Francisco, CA",
+    "postDate": "2 months ago",
+    "link": "https://www.linkedin.com/jobs/view/senior-ml-operations-engineer-mlops-at-unreal-staffing-inc-3897978554?position=60&pageNum=0&refId=dso%2BfX87CC%2B8Uf9VhjzctA%3D%3D&trackingId=GHHL1QzFkAF6ep5J0IhRmg%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "description": ""
+  }
+]
